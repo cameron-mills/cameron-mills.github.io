@@ -1,11 +1,11 @@
 # Site settings
 title:          Tail
 description:    "Minimal Jekyll blog theme"
-baseurl:        "/tail"
-url:
+baseurl:        "/"
+url: cmills.dev
 
 # https://jekyllrb.com/docs/configuration/options/
-timezone: Asia/Kolkata
+timezone: Europe/London
 
 # Google Analytics
 google_analytics:
@@ -14,7 +14,7 @@ google_analytics:
 #   This is the default author name displayed on all posts, can be overridden by setting a different `author: Your Name`
 #   in the frontmatter
 author:
-  name:         Your Name
+  name:         Cameron Mills
 
 # Build settings
 markdown:       kramdown
