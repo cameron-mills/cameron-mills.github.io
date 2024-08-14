@@ -1,7 +1,7 @@
 # Site settings
 title:          Tail
 description:    "Minimal Jekyll blog theme"
-baseurl:        "/"
+baseurl:        ""
 url: cmills.dev
 
 # https://jekyllrb.com/docs/configuration/options/
